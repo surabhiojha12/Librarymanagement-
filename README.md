@@ -6,7 +6,7 @@ This repository defines the database for the library management system. This als
 
 Features
 ----------
-* It has database design for moast of the usecases.
+* It has database design for most of the usecases.
 * It defines classes for the system with related attributes and methods.
 * The operations is identified for each method.
 
