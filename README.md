@@ -10,7 +10,4 @@ Features
 * It defines classes for the system with related attributes and methods.
 * The operations is identified for each method.
 
-Limitations
-----------
-* Since this is a college assignment there is a possibility of missing some of the use cases.
-* It only has the defined classes, attributes and methods. It is not a working code.
+
